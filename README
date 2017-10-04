@@ -1,0 +1,11 @@
+Repo for the project of ML - EPFL
+
+Federico Floris
+Martino Milani
+Andrea Zanoni
+
+*- create a directory "Project1_data" in the same directory where you put your local repo
+*- put the train.csv/test.csv/sample-submission.csv files in the directory "Project1_data"
+*- plz read http://kbroman.org/github_tutorial/pages/fork.html to learn how to contribute to the repo
+*- read https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet to learn about Markdown format (to write fancy Markdown cells on Jupyter Notebooks)
+}
