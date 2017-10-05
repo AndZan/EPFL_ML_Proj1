@@ -8,4 +8,12 @@ Andrea Zanoni
 *- put the train.csv/test.csv/sample-submission.csv files in the directory "Project1_data"
 *- plz read http://kbroman.org/github_tutorial/pages/fork.html to learn how to contribute to the repo
 *- read https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet to learn about Markdown format (to write fancy Markdown cells on Jupyter Notebooks)
-}
+
+
+THINGS TO DO:
+*-normalize data (MM)
+*-try to implement a better step-size choice (AZ)
+*-smart stopping criteria for GD J’(wk)/J’(w0) (MM)
+*-SGD (AZ)
+*-normal eq (FF)
+*-RR w/ normal equation (FF)
